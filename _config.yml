@@ -1,5 +1,6 @@
 title: nbol48 Student Portfolio Website
 description: A Collection of Earthlab Projects and Materials by nbol48
+logo: img/09947CAD-D2F2-46E2-B77D-8461D19D351F_1_105_c.jpeg
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
